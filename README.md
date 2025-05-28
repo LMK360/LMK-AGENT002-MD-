@@ -1,4 +1,3 @@
-```md
 <h1 align="center">🤖 LMK-AGENT002-MD BOT</h1>
 
 <p align="center">
