@@ -79,26 +79,4 @@ Do not use this bot to spam or break platform rules.
 
 > 💖 Don’t forget to star this repo and follow the creator!
 
-------
-
-⚠️ Disclaimer
-
-```md
-This project is for educational purposes only.  
-The owner is not responsible for any misuse.  
-Do not use this bot to spam or break platform rules.
-```
-
----
-
-⭐ Credits
-
-- Created by *LMK*
-- Inspired by MD WhatsApp bots
-- Powered by [`Baileys`](https://github.com/adiwajshing/Baileys)
-
----
-
-> 💖 Don’t forget to star this repo and follow the creator!
-
 ---
