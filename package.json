@@ -40,9 +40,5 @@
     "sequelize": "^6.37.0",
     "sqlite3": "^5.1.7",
     "uuid": "^9.0.1",
-    "api-dylux": "^1.0.5",
-    "@rmuria/tiktok-downloader": "^1.0.0",
-    "@rmuria/facebook-downloader": "^1.0.0",
-    "rmuria-nowcdl": "^1.0.0"
   }
 }
