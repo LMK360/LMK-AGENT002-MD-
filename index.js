@@ -767,11 +767,10 @@ if (!isReact && config.CUSTOM_REACT === 'true') {
         };
     conn.serializeM = mek => sms(conn, mek, store);
   }
-  
-  app.get("/", (req, res) => {
-  res.send("KHAN MD STARTED ✅");
-  });
-  app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
-  setTimeout(() => {
-  connectToWA()
-  }, 4000);
+
+ console.log("KHAN-MD BOT STARTING...");
+
+setTimeout(() => {
+  connectToWA();
+  console.log("KHAN-MD BOT STARTED ✅");
+}, 4000);
